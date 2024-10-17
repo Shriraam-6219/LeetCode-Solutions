@@ -8,9 +8,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0670-maximum-swap](https://github.com/Shriraam-6219/LeetCode-Solutions/tree/master/0670-maximum-swap) |
 | [1304-longest-happy-string](https://github.com/Shriraam-6219/LeetCode-Solutions/tree/master/1304-longest-happy-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [1304-longest-happy-string](https://github.com/Shriraam-6219/LeetCode-Solutions/tree/master/1304-longest-happy-string) |
+## Math
+|  |
+| ------- |
+| [0670-maximum-swap](https://github.com/Shriraam-6219/LeetCode-Solutions/tree/master/0670-maximum-swap) |
 <!---LeetCode Topics End-->
