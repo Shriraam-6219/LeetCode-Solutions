@@ -18,4 +18,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0670-maximum-swap](https://github.com/Shriraam-6219/LeetCode-Solutions/tree/master/0670-maximum-swap) |
+## Tree
+|  |
+| ------- |
+| [0988-flip-equivalent-binary-trees](https://github.com/Shriraam-6219/LeetCode-Solutions/tree/master/0988-flip-equivalent-binary-trees) |
+## Depth-First Search
+|  |
+| ------- |
+| [0988-flip-equivalent-binary-trees](https://github.com/Shriraam-6219/LeetCode-Solutions/tree/master/0988-flip-equivalent-binary-trees) |
+## Binary Tree
+|  |
+| ------- |
+| [0988-flip-equivalent-binary-trees](https://github.com/Shriraam-6219/LeetCode-Solutions/tree/master/0988-flip-equivalent-binary-trees) |
 <!---LeetCode Topics End-->
